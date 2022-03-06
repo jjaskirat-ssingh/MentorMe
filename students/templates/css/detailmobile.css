@@ -1,0 +1,28 @@
+h1 {
+    font-size: 1.7rem;
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    flex-direction: column;
+}
+
+.profilecontact img {
+    width: 200px;
+    height: 200px;
+}
+
+.description {
+    justify-content: center;
+    align-items: center;
+}
